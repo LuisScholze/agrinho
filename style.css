@@ -1,12 +1,12 @@
 body{
-background-color: rgb(255, 255, 255);
+background-color: rgb(184, 184, 184);
 }
 
 header{
 display: flex;
 align-items: center;
 justify-content: space-between;
-background-color: rgb(255, 255, 255);
+background-color: rgb(80, 80, 80);
 }
 
 footer{
